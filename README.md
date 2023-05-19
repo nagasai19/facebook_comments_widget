@@ -1,6 +1,6 @@
 # facebook_comments_widget
 
-Uploaded Date : 19th May, 2023, 12.36 P.M by Nagasai mallela.
+Uploaded Date : 19th May, 2023, 12.36 P.M
 
 Created on CodeSandbox by OWNER: Nagasai Mallela.
 
