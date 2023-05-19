@@ -1,0 +1,123 @@
+.comment-widget {
+  margin: 20px;
+  padding: 10px;
+  border-radius: 5px;
+}
+.comment-widget form {
+  margin-bottom: 10px;
+}
+.comment-widget label {
+  display: block;
+  margin-bottom: 5px;
+}
+.comment-widget textarea {
+  display: block;
+  width: 95%;
+  height: 50px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+.comment-widget button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 5px;
+}
+.comment {
+  padding: 5px;
+  margin: 1rem 0 10px 1rem;
+}
+.comment.true {
+  border: 1px solid #ccc;
+  border-style: dotted;
+  border-radius: 8px;
+}
+.comment .text .comment-container {
+  display: flex;
+}
+.comment .text .comment-container .edit-status {
+  font-size: 11px;
+  line-height: 10px;
+  color: lightslategrey;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+.comment .text .comment-container .text {
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.comment .info {
+  font-size: 12px;
+  color: #777;
+  padding: 2px;
+  margin-left: 2rem;
+}
+.comment .info .reply {
+  color: blue;
+  cursor: pointer;
+  margin-left: 10px;
+  font-size: 16px;
+}
+.comment .info .edit {
+  color: green;
+  cursor: pointer;
+  margin-left: 10px;
+  font-size: 16px;
+}
+.comment .info .delete {
+  color: red;
+  margin-left: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+.comment .actions {
+  margin-top: 5px;
+  display: flex;
+  justify-content: flex-end;
+}
+.comment .actions button {
+  margin-left: 10px;
+}
+.comment-form {
+  margin-left: 20px;
+}
+.comment-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+.comment-form textarea {
+  display: block;
+  width: 80%;
+  height: 50px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.cancel-text {
+  margin-left: 5px;
+}
+
+.reply-form {
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.reply-form label {
+  display: block;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
+.reply-form textarea {
+  display: block;
+  width: 80%;
+  height: 30px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
